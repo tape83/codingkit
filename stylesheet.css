@@ -103,6 +103,12 @@ body{
     border-radius: 10px;
 }
 
+.cd-timeline-content p {
+    max-height: 50px;
+    overflow: hidden;
+}
+
+
 .cd-timeline-date {
     width: 60px;
     height: 60px;
